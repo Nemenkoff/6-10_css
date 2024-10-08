@@ -1,9 +1,9 @@
 .green {
   color: green;
-  border: 1px red;
+  border: 1px solid red;
   width: 400px;
 }
 
-a hover {
+a:hover {
   color: salmon;
 }
